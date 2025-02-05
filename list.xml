@@ -756,9 +756,7 @@
       <attribute_value id="278558" nameRU="Единорог" nameUK="Єдиноріг"/>
     </attribute>
   </category>
-  <category id="284103" nameRU="Инженерно-строительные услуги, общее" nameUK="Інженерно-будівельні послуги, загальне">
-    <attribute/>
-  </category>
+  <category id="284103" nameRU="Инженерно-строительные услуги, общее" nameUK="Інженерно-будівельні послуги, загальне"/>
   <category id="280583" nameRU="Инженерные изыскания для строительства" nameUK="Інженерні дослідження для будівництва">
     <attribute id="9095" nameRU="Тип изысканий" nameUK="Тип вишукувань" type="multiselect">
       <attribute_value id="71791" nameRU="Инженерно-экологические изыскания" nameUK="Інженерно-екологічні вишукування"/>
@@ -830,9 +828,7 @@
       <attribute_value id="277464" nameRU="Монолитные работы" nameUK="Монолітні роботи"/>
     </attribute>
   </category>
-  <category id="28410107" nameRU="Строительно-ремонтные услуги, общее" nameUK="Будівельно ремонтні послуги, загальне">
-    <attribute/>
-  </category>
+  <category id="28410107" nameRU="Строительно-ремонтные услуги, общее" nameUK="Будівельно ремонтні послуги, загальне"/>
   <category id="284109" nameRU="Строительство бассейнов" nameUK="Будівництво басейнів">
     <attribute id="2562" nameRU="Выбор оказываемых услуг" nameUK="Вибір надаваних послуг" type="multiselect">
       <attribute_value id="15286" nameRU="Обслуживание" nameUK="Обслуговування"/>
@@ -1455,9 +1451,7 @@
       <attribute_value id="27111" nameRU="Ручным способом" nameUK="Ручним способом"/>
     </attribute>
   </category>
-  <category id="28410505" nameRU="Ландшафтные услуги, общее" nameUK="Ландшафтні послуги, загальне">
-    <attribute/>
-  </category>
+  <category id="28410505" nameRU="Ландшафтные услуги, общее" nameUK="Ландшафтні послуги, загальне"/>
   <category id="284152" nameRU="Обустройство дорожек" nameUK="Облаштування доріжок">
     <attribute id="2562" nameRU="Выбор оказываемых услуг" nameUK="Вибір надаваних послуг" type="multiselect">
       <attribute_value id="15287" nameRU="Проектирование" nameUK="Проектування"/>
@@ -1890,9 +1884,7 @@
     </attribute>
     <attribute id="16037" nameRU="Срок выполнения" nameUK="Термін виконання" type="real" measureUnitRU="дн" measureUnitUK="дн"/>
   </category>
-  <category id="284243" nameRU="Монтаж и обслуживание инженерных систем, общее" nameUK="Монтаж, налагодження та ремонт інженерних систем, загальне">
-    <attribute/>
-  </category>
+  <category id="284243" nameRU="Монтаж и обслуживание инженерных систем, общее" nameUK="Монтаж, налагодження та ремонт інженерних систем, загальне"/>
   <category id="284173" nameRU="Сантехнические работы" nameUK="Сантехнічні роботи">
     <attribute id="2562" nameRU="Выбор оказываемых услуг" nameUK="Вибір надаваних послуг" type="multiselect">
       <attribute_value id="15285" nameRU="Монтаж" nameUK="Монтаж"/>
@@ -1972,9 +1964,7 @@
     </attribute>
     <attribute id="18788" nameRU="Заливка пенополиуретана" nameUK="Заливка пінополіуретану" type="bool"/>
   </category>
-  <category id="28410401" nameRU="Проектные услуги, общее" nameUK="Проектні послуги, загальне">
-    <attribute/>
-  </category>
+  <category id="28410401" nameRU="Проектные услуги, общее" nameUK="Проектні послуги, загальне"/>
   <category id="28410404" nameRU="Проектирование домов, жилых и общественных зданий" nameUK="Проектування будинків, житлових та громадських будівель">
     <attribute id="2592" nameRU="Предполагаемый тип сооружения" nameUK="Передбачуваний тип споруди" type="multiselect">
       <attribute_value id="15822" nameRU="Сборно-разборные (каркасные)" nameUK="Збірно-розбірні (каркасні)"/>
@@ -2327,9 +2317,7 @@
     </attribute>
     <attribute id="15787" nameRU="Толщина звена" nameUK="Товщина ланки" type="real" measureUnitRU="мм" measureUnitUK="мм" min="0" max="100"/>
   </category>
-  <category id="14201633" nameRU="Строительный измерительный инструмент, общее" nameUK="Будівельний вимірювальний інструмент, загальне">
-    <attribute/>
-  </category>
+  <category id="14201633" nameRU="Строительный измерительный инструмент, общее" nameUK="Будівельний вимірювальний інструмент, загальне"/>
   <category id="14201622" nameRU="Строительные уровни" nameUK="Будівельні рівні">
     <attribute id="5" nameRU="Вес" nameUK="Вага" type="real" measureUnitRU="кг" measureUnitUK="кг" min="0" max="2"/>
     <attribute id="100" nameRU="Гарантийный срок" nameUK="Гарантійний термін" type="integer" measureUnitRU="мес" measureUnitUK="міс" min="0" max="120"/>
@@ -2620,9 +2608,7 @@
       <attribute_value id="83770" nameRU="Б/У" nameUK="Вживані"/>
     </attribute>
   </category>
-  <category id="14201635" nameRU="Строительный пневматический инструмент, общее" nameUK="Будівельний пневматичний інструмент, загальне">
-    <attribute/>
-  </category>
+  <category id="14201635" nameRU="Строительный пневматический инструмент, общее" nameUK="Будівельний пневматичний інструмент, загальне"/>
   <category id="14200501" nameRU="Пневмодрели" nameUK="Пневмодрилі">
     <attribute id="5" nameRU="Вес" nameUK="Вага" type="real" measureUnitRU="кг" measureUnitUK="кг" min="0" max="15"/>
     <attribute id="6" nameRU="Тип патрона" nameUK="Тип патрона" type="singleselect">
@@ -2716,9 +2702,7 @@
       <attribute_value id="302047" nameRU="Турбинный" nameUK="Турбінний"/>
     </attribute>
   </category>
-  <category id="14201699" nameRU="Строительный инструмент, общее" nameUK="Будівельний інструмент, загальне">
-    <attribute/>
-  </category>
+  <category id="14201699" nameRU="Строительный инструмент, общее" nameUK="Будівельний інструмент, загальне"/>
   <category id="14201629" nameRU="Строительные ведра, емкости" nameUK="Будівельні відра, ємкості">
     <attribute id="5" nameRU="Вес" nameUK="Вага" type="real" measureUnitRU="кг" measureUnitUK="кг" min="0" max="3"/>
     <attribute id="100" nameRU="Гарантийный срок" nameUK="Гарантійний термін" type="integer" measureUnitRU="мес" measureUnitUK="міс" min="0" max="120"/>
@@ -3167,9 +3151,7 @@
     <attribute id="9164" nameRU="Минимальный диаметр трубы" nameUK="Мінімальний діаметр труби" type="real" measureUnitRU="мм" measureUnitUK="мм" min="0" max="20"/>
     <attribute id="9165" nameRU="Максимальный диаметр трубы" nameUK="Максимальний діаметр труби" type="real" measureUnitRU="мм" measureUnitUK="мм" min="0" max="150"/>
   </category>
-  <category id="14200999" nameRU="Гидравлический инструмент, общее" nameUK="Гідравлічний інструмент, загальне">
-    <attribute/>
-  </category>
+  <category id="14200999" nameRU="Гидравлический инструмент, общее" nameUK="Гідравлічний інструмент, загальне"/>
   <category id="14200901" nameRU="Гидравлические отбойные молотки" nameUK="Гідравлічні відбійні молотки">
     <attribute id="5" nameRU="Вес" nameUK="Вага" type="real" measureUnitRU="кг" measureUnitUK="кг" min="0" max="200"/>
     <attribute id="9" nameRU="Регулировка количества оборотов" nameUK="Регулювання кількості обертів" type="bool"/>
@@ -3292,9 +3274,7 @@
     <attribute id="8923" nameRU="Максимальное усилие" nameUK="Максимальне зусилля" type="real" measureUnitRU="т" measureUnitUK="т" min="0" max="630"/>
     <attribute id="8971" nameRU="Рабочий ход поршня" nameUK="Робочий хід поршня" type="real" measureUnitRU="мм" measureUnitUK="мм" min="0" max="500"/>
   </category>
-  <category id="14200914" nameRU="Гидравлические цепные пилы" nameUK="Гідравлічні ланцюгові пили">
-    <attribute/>
-  </category>
+  <category id="14200914" nameRU="Гидравлические цепные пилы" nameUK="Гідравлічні ланцюгові пили"/>
   <category id="14200913" nameRU="Гидравлические маслостанции" nameUK="Гідравлічні маслостанції">
     <attribute id="5" nameRU="Вес" nameUK="Вага" type="real" measureUnitRU="кг" measureUnitUK="кг" min="0" max="10000"/>
     <attribute id="100" nameRU="Гарантийный срок" nameUK="Гарантійний термін" type="integer" measureUnitRU="мес" measureUnitUK="міс" min="0" max="120"/>
@@ -3464,9 +3444,7 @@
       <attribute_value id="71906" nameRU="Гидравлический пресс с выносным насосом" nameUK="Гідравлічний прес з виносним насосом"/>
     </attribute>
   </category>
-  <category id="14201402" nameRU="Дереворежущий инструмент, общее" nameUK="Дереворізальний інструмент, загальне">
-    <attribute/>
-  </category>
+  <category id="14201402" nameRU="Дереворежущий инструмент, общее" nameUK="Дереворізальний інструмент, загальне"/>
   <category id="14200308" nameRU="Ручные пилы, ножовки" nameUK="Ручні пили, ножівки">
     <attribute id="5" nameRU="Вес" nameUK="Вага" type="real" measureUnitRU="кг" measureUnitUK="кг" min="0" max="3"/>
     <attribute id="100" nameRU="Гарантийный срок" nameUK="Гарантійний термін" type="integer" measureUnitRU="мес" measureUnitUK="міс" min="0" max="120"/>
@@ -4014,9 +3992,7 @@
     <attribute id="12216" nameRU="Высота пропила" nameUK="Висота пропилу" type="real" measureUnitRU="мм" measureUnitUK="мм" min="0" max="255"/>
     <attribute id="15991" nameRU="Глубина пропила" nameUK="Глибина пропилу" type="real" measureUnitRU="мм" measureUnitUK="мм" min="0" max="225"/>
   </category>
-  <category id="14172704" nameRU="Пилы электрические, общее" nameUK="Пили електричні, загальне">
-    <attribute/>
-  </category>
+  <category id="14172704" nameRU="Пилы электрические, общее" nameUK="Пили електричні, загальне"/>
   <category id="14172701" nameRU="Ручные дисковые пилы" nameUK="Ручні дискові пили">
     <attribute id="4" nameRU="Потребляемая мощность" nameUK="Споживана потужність" type="real" measureUnitRU="Вт" measureUnitUK="Вт" min="0" max="3000"/>
     <attribute id="5" nameRU="Вес" nameUK="Вага" type="real" measureUnitRU="кг" measureUnitUK="кг" min="0" max="15"/>
@@ -5000,9 +4976,7 @@
       <attribute_value id="83770" nameRU="Б/У" nameUK="Вживані"/>
     </attribute>
   </category>
-  <category id="14201001" nameRU="Металлорежущий инструмент, общее" nameUK="Металорізальний інструмент, загальне">
-    <attribute/>
-  </category>
+  <category id="14201001" nameRU="Металлорежущий инструмент, общее" nameUK="Металорізальний інструмент, загальне"/>
   <category id="14201002" nameRU="Ручные ножницы по металлу" nameUK="Ручні ножиці по металу">
     <attribute id="5" nameRU="Вес" nameUK="Вага" type="real" measureUnitRU="кг" measureUnitUK="кг" min="0" max="2"/>
     <attribute id="59" nameRU="Тип ножниц по металлу" nameUK="Тип ножиць по металу" type="singleselect">
@@ -6019,9 +5993,7 @@
     </attribute>
     <attribute id="15474" nameRU="Диаметр внутренний" nameUK="Діаметр внутрішній" type="real" measureUnitRU="мм" measureUnitUK="мм" min="0" max="1000"/>
   </category>
-  <category id="14201504" nameRU="Оснастка для инструмента, общее" nameUK="Оснащення для інструменту, загальне">
-    <attribute/>
-  </category>
+  <category id="14201504" nameRU="Оснастка для инструмента, общее" nameUK="Оснащення для інструменту, загальне"/>
   <category id="14201506" nameRU="Пилки для лобзиков" nameUK="Пилки для лобзиків">
     <attribute id="148" nameRU="Ширина" nameUK="Ширина" type="real" measureUnitRU="мм" measureUnitUK="мм" min="0" max="100"/>
     <attribute id="538" nameRU="Длина" nameUK="Довжина" type="real" measureUnitRU="мм" measureUnitUK="мм" min="0" max="1000"/>
@@ -7074,9 +7046,7 @@
     <attribute id="165" nameRU="Диаметр манометра" nameUK="Діаметр манометра" type="real" measureUnitRU="мм" measureUnitUK="мм" min="0" max="150"/>
     <attribute id="166" nameRU="Длина наконечника" nameUK="Довжина накінечника" type="real" measureUnitRU="мм" measureUnitUK="мм" min="0" max="250"/>
   </category>
-  <category id="14200520" nameRU="Пневматические пистолеты, общее" nameUK="Пневматичні пістолети, загальне">
-    <attribute/>
-  </category>
+  <category id="14200520" nameRU="Пневматические пистолеты, общее" nameUK="Пневматичні пістолети, загальне"/>
   <category id="14200524" nameRU="Пневматические распылительные пистолеты" nameUK="Пневматичні розпилювальні пістолети">
     <attribute id="5" nameRU="Вес" nameUK="Вага" type="real" measureUnitRU="кг" measureUnitUK="кг" min="0" max="10"/>
     <attribute id="100" nameRU="Гарантийный срок" nameUK="Гарантійний термін" type="integer" measureUnitRU="мес" measureUnitUK="міс" min="0" max="120"/>
@@ -7180,9 +7150,7 @@
       <attribute_value id="83770" nameRU="Б/У" nameUK="Вживані"/>
     </attribute>
   </category>
-  <category id="14200599" nameRU="Пневматический инструмент, общее" nameUK="Пневматичний інструмент, загальне">
-    <attribute/>
-  </category>
+  <category id="14200599" nameRU="Пневматический инструмент, общее" nameUK="Пневматичний інструмент, загальне"/>
   <category id="14200513" nameRU="Пневматические отбойные молотки" nameUK="Пневматичні відбійні молотки">
     <attribute id="5" nameRU="Вес" nameUK="Вага" type="real" measureUnitRU="кг" measureUnitUK="кг" min="0" max="75"/>
     <attribute id="9" nameRU="Регулировка количества оборотов" nameUK="Регулювання кількості обертів" type="bool"/>
@@ -9686,12 +9654,8 @@
       <attribute_value id="179363" nameRU="Т-образная" nameUK="Т-подібна"/>
     </attribute>
   </category>
-  <category id="284344" nameRU="Услуги в сфере IT" nameUK="Послуги в сфері IT">
-    <attribute/>
-  </category>
-  <category id="284299" nameRU="Услуги в сфере IT, общее" nameUK="Послуги в сфері IT, загальне">
-    <attribute/>
-  </category>
+  <category id="284344" nameRU="Услуги в сфере IT" nameUK="Послуги в сфері IT"/>
+  <category id="284299" nameRU="Услуги в сфере IT, общее" nameUK="Послуги в сфері IT, загальне"/>
   <category id="5501" nameRU="Авто-, мото, общее" nameUK="Авто-, мото, загальне">
     <attribute id="10006" nameRU="Состояние" nameUK="Стан" type="singleselect">
       <attribute_value id="83769" nameRU="Новое" nameUK="Новий"/>
